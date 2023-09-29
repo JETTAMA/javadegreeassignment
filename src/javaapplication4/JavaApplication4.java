@@ -28,6 +28,7 @@ public class JavaApplication4 {
         System.out.println("Henry Kong Jia Heng");
         System.out.println("Fang round HAHAHHAHAffff");
         System.out.println("Fang round HAHAHHAHAffff");
+        System.out.println("Fang is an fat ass dude !!!");
     }
     
 }
