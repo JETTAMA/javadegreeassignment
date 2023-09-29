@@ -1,3 +1,4 @@
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
@@ -24,8 +25,8 @@ public class JavaApplication4 {
         System.out.println("jet round affffff");
         System.out.println("jet round affffff");
         System.out.println("jet round affffff");
-        System.out.println("Fang round affffff");
 
+        System.out.println("Fang round HAHAHHAHAffff");
     }
     
 }
