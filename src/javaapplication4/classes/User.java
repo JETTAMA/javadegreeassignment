@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package javaapplication4;
+package javaapplication4.classes;
 
 /**
  *
@@ -16,6 +16,10 @@ public class User {
     private String role;
 
     public User() {
+    }
+    public User(String userId, String password) {
+        this.userId = userId;
+        this.password = password;
     }
 
     public User(String userId, String password, String name, String email, String role) {
