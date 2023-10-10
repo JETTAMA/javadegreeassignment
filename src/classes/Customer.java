@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package javaapplication4.classes;
+package classes;
 
 /**
  *
@@ -19,8 +19,8 @@ public class Customer extends User{
         super();
     }
     
-    public Customer(String username, String pass){
-        super(username, pass);
+    public Customer(String userId, String pass){
+        super(userId, pass);
     }
     
 }

@@ -2,19 +2,20 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package javaapplication4.classes;
+package classes;
 
 /**
  *
  * @author cocon
  */
-public class Vendor extends User{
+public class DeliveryRunner extends User{
     
-    public Vendor() {
+    public DeliveryRunner() {
         super();
     }
     
-    public Vendor(String username, String pass){
-        super(username, pass);
+    public DeliveryRunner(String userId, String pass){
+        super(userId, pass);
     }
+    
 }
