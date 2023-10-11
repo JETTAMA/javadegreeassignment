@@ -82,7 +82,6 @@ public class OpeningPage extends javax.swing.JFrame {
                 .addGap(126, 126, 126))
         );
 
-        RegisterNow.getAccessibleContext().setAccessibleName("Register Now");
         RegisterNow.getAccessibleContext().setAccessibleDescription("");
 
         pack();
