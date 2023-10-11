@@ -77,8 +77,6 @@ public class OpeningPage extends javax.swing.JFrame {
                 .addGap(126, 126, 126))
         );
 
-        RegisterNow.getAccessibleContext().setAccessibleDescription("");
-
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
