@@ -42,7 +42,6 @@ public class AdminDashboard extends javax.swing.JFrame {
         label1 = new java.awt.Label();
         jFormattedTextField1 = new javax.swing.JFormattedTextField();
         jButton6 = new javax.swing.JButton();
-        jButton7 = new javax.swing.JButton();
 
         jMenuItem1.setText("jMenuItem1");
 
@@ -347,6 +346,9 @@ public class AdminDashboard extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(AdminDashboard.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
