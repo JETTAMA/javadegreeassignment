@@ -1,0 +1,4 @@
+VEN001,Chinese001,Chinese,Tong Sui,-HomeMade Di Tang,9.0
+VEN001,Chinese002,Chinese,Bing Tang Hu Lu,Tian Shi Ni Ma,6.0
+VEN002,Malay001,Malay,Nasi Kampung,It is cooked with chili and shallots. ,9.0
+VEN002,Malay002,Malay,Ayam tandoori,Chicken marinated in yogurt and spices,6.0

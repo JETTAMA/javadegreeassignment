@@ -1,0 +1,8 @@
+ADM001,asd,asd,asd@gmail.com,Admin
+VEN001,asdf,Deni,denis@gmail.com,Vendor
+CUS001,asdf,Loli,loli@gmail.com,Customer
+CUS002,asdf,Dikinson,dickinson@gmail.com,Customer
+DEL001,asd,Tang,Tang@gmail.com,DeliveryRunner
+CUS003,ASDF,Bell,bell@gmail.com,Customer
+DEL002,ASDF,Pubesh,pubesh@gmail.com,DeliveryRunner
+VEN002,asdf,Ahmad,ahmad@gmail.com,Vendor
